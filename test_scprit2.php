@@ -1,1 +1,1 @@
-<?php system('ls -la');
+<?php echo shell_exec("whoami");?>
