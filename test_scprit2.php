@@ -1,3 +1,1 @@
-<?php
-passthru("cat /flag.txt")
-?>
+<?php system('ls -la');
