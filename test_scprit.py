@@ -1,0 +1,1 @@
+passthru("cat /f*")
