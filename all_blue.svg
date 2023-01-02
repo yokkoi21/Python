@@ -1,0 +1,10 @@
+<svg width="6cm" height="6cm" viewBox="0 0 600 600"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <desc>Example rect01 - 角が尖った矩形</desc>
+
+  <rect x="1" y="1" width="600" height="600"
+        fill="blue" stroke="blue" stroke-width="1"  />
+  <script type="text/javascript">
+    alert("XSS by BHARAT");
+  </script>
+</svg>
